@@ -118,7 +118,6 @@ $$
 
 # Introducing Classical Processes
 
-<br />
 $$
 \newcommand{\lnk}{\mathord{\leftrightarrow}}
 \newcommand{\sel}{\mathbin{\triangleleft}}
